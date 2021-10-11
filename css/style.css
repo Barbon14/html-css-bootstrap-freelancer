@@ -13,13 +13,19 @@
     margin: 0 auto;
 }
 
+/* header */
+header {
+    background-color: #2c3e50;
+    /* debug */
+    height: 100px;
+}
+
 /* contenuto pagina */
 
 /* jumbotron */
 #jumbotron {
     background-color: #1abc9c;
     color: white;
-    text-align: center;
     /* debug */
     height: 300px;
 }
