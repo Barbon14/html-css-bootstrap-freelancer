@@ -1,0 +1,16 @@
+/* regole di debug per colonne */
+[class*="col-"] {
+    height: 100px;
+    background-color: coral;
+    border: 1px solid black;
+}
+
+/* jumbotron */
+#jumbotron {
+    background-color: #1abc9c;
+    color: white;
+    text-align: center;
+    /* debug */
+    height: 300px;
+}
+
