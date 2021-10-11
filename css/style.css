@@ -5,6 +5,8 @@
     border: 1px solid black;
 }
 
+/* contenuto pagina */
+
 /* jumbotron */
 #jumbotron {
     background-color: #1abc9c;
@@ -14,3 +16,9 @@
     height: 300px;
 }
 
+/* sezione about */
+#about {
+    background-color: #1abc9c;
+    /* debug */
+    height: 300px;
+}
