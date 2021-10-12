@@ -1,9 +1,9 @@
 /* regole di debug per colonne */
-[class*="col-"] {
+/* [class*="col-"] {
     height: 100px;
     background-color: coral;
     border: 1px solid black;
-}
+} */
 
 /* header */
 header {
@@ -45,6 +45,11 @@ header {
 
 #jumbotron img {
     width: 40%;
+}
+
+/* sezione portfolio */
+#portfolio img {
+    margin: 10px 0;
 }
 
 /* sezione about */
