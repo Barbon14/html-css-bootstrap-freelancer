@@ -55,8 +55,8 @@ header {
 /* sezione about */
 #about {
     background-color: #1abc9c;
+    color: white;
     /* debug */
-    height: 300px;
 }
 
 /* sezione contatti */
