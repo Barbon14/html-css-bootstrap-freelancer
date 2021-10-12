@@ -8,7 +8,6 @@
 /* header */
 header {
     background-color: #2c3e50;
-    /* debug */
 }
 
 /* menu navigazione */
@@ -40,7 +39,6 @@ header {
 #jumbotron {
     background-color: #1abc9c;
     color: white;
-    /* debug */
 }
 
 #jumbotron img {
@@ -56,13 +54,18 @@ header {
 #about {
     background-color: #1abc9c;
     color: white;
-    /* debug */
 }
 
 /* sezione contatti */
-#contact {
-    /* debug */
-    height: 300px;
+#contact .form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+#contact .btn-primary {
+    background-color: #1abc9c;
+    border-color: #1abc9c;
 }
 
 /* footer */
